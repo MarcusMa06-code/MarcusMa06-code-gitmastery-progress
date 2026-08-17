@@ -131,5 +131,14 @@
       "You have not fetched Bob's changes yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1786954561.408028,
+    "completed_at": 1786954564.898308,
+    "comments": [
+      "You have not fetched Bob's changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
